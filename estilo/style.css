@@ -6,8 +6,8 @@
 }
 
 * {
-    margin: 0%;
-    padding: 0%;
+    margin: 0px;
+    padding: 0px;
 }
 
 :root {
@@ -102,7 +102,8 @@ nav a:hover {
 main {
     background-color: #ffffff;
     min-width: 300px;
-    max-width: 900px;
+    max-width: 1000px;
+    padding: 20px;
     margin: auto;
     /* border-radius: 0px 0px 13px 13px; */
     /* box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.105); */
