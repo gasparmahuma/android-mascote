@@ -25,6 +25,7 @@
 body {
     font-family: var(--fonte-titulos);
     background-color: #ffffff;
+    margin: auto;
     
 }
 
@@ -132,6 +133,10 @@ p {
     text-indent: 30px;
     line-height: 25px;
     padding: 20px;
+}
+
+img.fosco {
+    width: 100%;
 }
 
 img.fosco {
